@@ -24,3 +24,5 @@ Stop an instance:
 "instanceId": "i-xxxx"
 }
 ```
+
+Note: your Lambda will need a role with sufficient permissions to start and stop EC2 isntances.
